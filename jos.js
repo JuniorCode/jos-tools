@@ -5,10 +5,12 @@ v0.0.0 (Beta)
 
 */
 
-function serializeObject(object) {
-	
-}
-
-function deserializeString(string) {
+var Java = {
+  "serialize": function(object) {
+    
+  }, 
   
+  "deserialize": function(string) {
+    
+  }
 }
